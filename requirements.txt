@@ -1,0 +1,5 @@
+streamlit
+yfinance
+tensorflow
+matplotlib
+-U scikit-learn
